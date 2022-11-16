@@ -26,7 +26,7 @@ To **check beforehand if the program is running**: `ps aux | grep -i 'goE'` OR `
 
 To check how many times the program is running: `ps aux | grep -i 'goE'` OR `ps -A`. If `goE` is displayed more than once, it is running more than once which causes errors. <br>
 
-We were able to test the frontend was displaying the data in my DB by using eric.brown/frontend/weather-app/ and changing the datadummp.js file to use my backend DB URL versus the original from the school. <br>
+We were able to test the frontend was displaying the data in the DB and changing the datadummp.js file to use my backend DB URL versus the original from the school. <br>
 
 
 ###### With data now flowing into backend container, we must now work on frontend to work on the internet. <br>
